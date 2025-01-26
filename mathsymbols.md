@@ -1,7 +1,5 @@
 # 📌 Math Shortcuts for Probability & Statistics
 
-# 📌 Mathematics Symbols for Probability & Statistics
-
 ## **Greek Letters & Common Notation**
 | Symbol | Meaning | LaTeX Equivalent |
 |---|---|---|
