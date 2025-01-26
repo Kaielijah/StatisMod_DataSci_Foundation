@@ -96,5 +96,5 @@
 - **Binomial/Poisson/Normal** → If modeling specific probability events.
 
 🚀 **Tip:** Use the **Flowchart of Distributions** for deeper understanding of relationships between these concepts!
-
----
+## **Distribution Flowchart**
+![Distribution Flowchart](https://github.com/Kaielijah/StatisMod_DataSci_Foundation/blob/main/images/distribution-flowchart.png)
