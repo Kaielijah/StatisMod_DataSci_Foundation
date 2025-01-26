@@ -1,4 +1,4 @@
-# Step 1 - Setting up environment 
+# Setting up environment for Macbook 
 ### Check Dependencies versions install Dependencies:
 1.	Homebrew
 - Install: ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"```
