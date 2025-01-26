@@ -1,5 +1,50 @@
 # 📌 Math Shortcuts for Probability & Statistics
 
+# 📌 Mathematics Symbols for Probability & Statistics
+
+## **Greek Letters & Common Notation**
+| Symbol | Meaning | LaTeX Equivalent |
+|---|---|---|
+| `α (alpha)` | Shape parameter in distributions, significance level | `\alpha` |
+| `β (beta)` | Type II error, regression coefficients | `\beta` |
+| `γ (gamma)` | Gamma function, shape parameter | `\gamma` |
+| `θ (theta)` | Parameter in probability distributions | `\theta` |
+| `λ (lambda)` | Rate parameter (Exponential, Poisson) | `\lambda` |
+| `μ (mu)` | Mean (Expectation) | `\mu` |
+| `σ (sigma)` | Standard deviation | `\sigma` |
+| `σ² (sigma squared)` | Variance | `\sigma^2` |
+| `ρ (rho)` | Correlation coefficient | `\rho` |
+
+## **Statistical Notation & Functions**
+| Symbol | Meaning | LaTeX Equivalent |
+|---|---|---|
+| `E[X]` | Expectation of X | `E[X]` |
+| `Var(X)` | Variance of X | `\text{Var}(X)` |
+| `SD(X)` | Standard deviation of X | `\sigma_X` |
+| `Σ` | Summation notation | `\sum` |
+| `Π` | Product notation | `\prod` |
+| `∫` | Integral notation | `\int` |
+| `∂` | Partial derivative | `\partial` |
+| `∞` | Infinity | `\infty` |
+
+## **Probability & Distributions**
+| Symbol | Meaning | LaTeX Equivalent |
+|---|---|---|
+| `P(A)` | Probability of event A | `P(A)` |
+| `P(A|B)` | Conditional probability | `P(A | B)` |
+| `∩` | Intersection (AND) | `\cap` |
+| `∪` | Union (OR) | `\cup` |
+| `χ²` | Chi-square distribution | `\chi^2` |
+| `t` | t-distribution | `t` |
+| `F` | F-distribution | `F` |
+| `X ~ N(μ, σ²)` | X follows a Normal distribution | `X \sim N(\mu, \sigma^2)` |
+| `X ~ B(n, p)` | X follows a Binomial distribution | `X \sim B(n, p)` |
+| `X ~ Poisson(λ)` | X follows a Poisson distribution | `X \sim P(\lambda)` |
+
+## 📌 **Usage**
+- Use these shortcuts for easier notation typing and understanding formulas.
+- Useful for LaTeX, GitHub documentation, and mathematical discussions.
+
 ## **1️⃣ Probability & Set Notation**
 | Shortcut | Meaning |
 |---|---|
